@@ -1,3 +1,10 @@
+# Daniel Lawson's First CS193 Homework
+
+- CS 193 teaches you some cool tools
+- and if you don't know tools, then you aren't cool
+- CS 193 is pretty chill
+- MA 271 is not
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
